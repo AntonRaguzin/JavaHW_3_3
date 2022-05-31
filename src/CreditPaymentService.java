@@ -6,5 +6,5 @@ public class CreditPaymentService {
         double k = i * pow / (pow - 1); // коэфициент аннуитета
         double payment = k * amount; // расчет ежемесячного платежа
         return payment;
-        }
+    }
 }

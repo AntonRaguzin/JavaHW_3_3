@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecf4c5ed-fdc1-4736-a78f-0f0941af38b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreditPaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditPaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Maim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maim.java" afterDir="false" />
-    </list>
+    <list default="true" id="ecf4c5ed-fdc1-4736-a78f-0f0941af38b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +31,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Anton/IdeaProjects/JavaHW_3_2"
   }
 }]]></component>
   <component name="RunManager">
