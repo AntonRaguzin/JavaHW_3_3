@@ -6,5 +6,5 @@ public class Maim {
         double percent = 9.99; // ставка в процентах годовых
         double payment = service.calculate(amount, period, percent);
         System.out.printf("Ежемесячный платеж - " + "%.0f", payment);
-        }
+    }
 }
